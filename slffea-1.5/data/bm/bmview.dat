@@ -1,0 +1,33 @@
+                            node
+                          min  max       min            max
+displacement Ux            0     0     0.000000e+00   0.000000e+00
+displacement Uy            0     0     0.000000e+00   0.000000e+00
+displacement Uz            0     0     0.000000e+00   0.000000e+00
+angle phi x                0     0     0.000000e+00   0.000000e+00
+angle phi y                0     0     0.000000e+00   0.000000e+00
+angle phi z                0     0     0.000000e+00   0.000000e+00
+
+                        el. gauss pt.
+                        min       max         min           max
+moment xx                0  0     0  0    0.000000e+00   0.000000e+00
+moment yy                0  0     0  0    0.000000e+00   0.000000e+00
+moment zz                0  0     0  0    0.000000e+00   0.000000e+00
+stress xx                0  0     0  0    0.000000e+00   0.000000e+00
+stress xy                0  0     0  0    0.000000e+00   0.000000e+00
+stress zx                0  0     0  0    0.000000e+00   0.000000e+00
+
+curve xx                 0  0     0  0    0.000000e+00   0.000000e+00
+curve yy                 0  0     0  0    0.000000e+00   0.000000e+00
+curve zz                 0  0     0  0    0.000000e+00   0.000000e+00
+strain xx                0  0     0  0    0.000000e+00   0.000000e+00
+strain xy                0  0     0  0    0.000000e+00   0.000000e+00
+strain zx                0  0     0  0    0.000000e+00   0.000000e+00
+
+Orthographic viewport parameters(right, left, top, bottom, near, far)
+   6.500000e+00  -1.500000e+00   6.970000e+00  -1.030000e+00   6.400000e-01   1.000000e+03
+Perspective viewport parameters( mesh width and height)
+    320    320
+Step sizes in x, y, z
+   7.000000e-01   4.180000e-01   9.760000e-01
+Amplification size
+   2.000000e+19
