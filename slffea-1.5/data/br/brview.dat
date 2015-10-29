@@ -27,10 +27,10 @@ strain II                0         0     0.000000e+00   0.000000e+00
 strain III               0         0     0.000000e+00   0.000000e+00
 
 Orthographic viewport parameters(right, left, top, bottom, near, far)
-   2.100000e+00  -1.100000e+00   2.100000e+00  -1.100000e+00   1.300000e+00   1.000000e+03
+   5.800000e+00  -5.800000e+00   6.443080e+00  -5.156920e+00   4.800000e+00   1.000000e+03
 Perspective viewport parameters( mesh width and height)
     320    320
 Step sizes in x, y, z
-   6.000000e-02   6.000000e-02   7.200000e-01
+   4.800000e-01   4.156920e-01   1.920000e+00
 Amplification size
-   7.500000e+18
+   2.750000e+19
