@@ -19,11 +19,12 @@ struct obj readFile(char * path) {
 
 
    while(std::getline(stlf,sline)) {
-     if ( sline.find("vertex")!=std::string::npos) {
+     if ( sline.find("vertex")==std::string::npos) {
       
       } else {
 	 
-	 std::cout<<sline.substr(4,64).c_str();
+
+	 std::cout<<sline.substr(10,64)<<std::endl;
          for (int i=0;i<=nodecount;i++) {
              
 	   
